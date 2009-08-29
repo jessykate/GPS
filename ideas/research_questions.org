@@ -1,0 +1,19 @@
+* Machine Learning
+  + auto-determination of locations and routes to a given threshold of
+    detail
+  + path determination from noisy routes
+  + curve approximation from discrete points
+    + with terrain as a guide
+    + with multiple data sets
+  + auto-labelling of data using business/residence listings
+  + auto determination of tie points for image warping (sharp curves,
+    distinct features)
+
+* Statistical correlations
+  + correlation between time spent at primary/secondary locations
+    (work? home?) and lifestyle/income/profession/etc.
+  + super/sublinear scaling of distances/travel times to primary
+    locations, meet points, etc. (cf. paper: superlinear scaling in
+    cities).
+  + characteristic travel distance per person
+  + 
